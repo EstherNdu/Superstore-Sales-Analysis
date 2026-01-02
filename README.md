@@ -54,3 +54,22 @@ This project is built on a five-table relational dataset comprising 9,994 order 
 * Profit shows a significant upward trend toward the end of the year, peaking in December.
 * West region generated the highest profit (108.4k), followed by East (91.5k) and South (46.7k)
 
+<img width="1397" height="776" alt="Screenshot 2025-11-02 223250" src="https://github.com/user-attachments/assets/004b4c95-bebc-4948-a558-91b122580377" />
+
+* $60.7 Average Price per product was recorded, reflecting a 0.9% MoM decrease.
+* Technology is the highest-priced category at an average of $120.5, while Office Supplies is the lowest at $31.4.
+* Profit Loss: Several products, such as the Cubify CubeX, are currently being sold at a loss, with Cubify CubeX losing $8.9K.
+
+<img width="1406" height="774" alt="Screenshot 2025-11-02 223232" src="https://github.com/user-attachments/assets/d85f01c9-abc9-4203-916e-d5ea850f6d8e" />
+
+* The Consumer segment accounts for the majority of the customer base at 51.58% (409 customers).
+* The Consumer segment is the most significant contributor, accounting for $1.2M (50.56%) of total revenue.
+* Although the Consumer segment generates the most revenue, the Corporate segment is highly efficient, contributing 30.74% of revenue from only 29.76% of the total customer base.
+* Sean Miller is the highest-grossing customer with $25,043.1 in revenue, though this account currently shows a negative profit margin of -7.9%.
+* Tamara Chand and Raymond Buch represent ideal customer profiles, both maintaining profit margins above 46%.
+
+<img width="1404" height="786" alt="Screenshot 2025-11-02 223638" src="https://github.com/user-attachments/assets/48d0a247-12d5-4c06-9366-6b14dd2efceb" />
+
+* The West Region is the highest performing area, generating $725.5K in revenue and $0.11M in profit.
+* California and New York are the top-performing states by profit, contributing $76K and $74K respectively.
+* New York City leads at the local level with 450 orders and $256,368.2 in revenue.
