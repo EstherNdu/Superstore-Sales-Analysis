@@ -15,4 +15,42 @@ This project is built on a five-table relational dataset comprising 9,994 order 
 * Which customer segment had the highest number of customers?
 * Which product category gave the highest discounts?
 * Which products were sold at loss
-* 
+* Which states had the highest profit and profit margin?
+* What are the top 5 cities by orders?
+
+# Tool Used 
+  Power Query & Power BI
+
+# Processes 
+* Imported the data into Power BI
+* Transformed the data using Power Query
+* Loaded the data into Power BI for Analysis & Reporting
+* Modeled the data
+* Created a calendar table
+* Created parameters for customer segment and product category
+* Used DAX to perform indepth analysis
+* Created interactive reports
+
+# Data Modeling
+<img width="1634" height="629" alt="Screenshot 2026-01-02 213156" src="https://github.com/user-attachments/assets/723a2ac9-4d97-4383-9520-5a4df7d4c29d" />
+
+# Key Insights
+<img width="1013" height="130" alt="Screenshot 2026-01-02 213339" src="https://github.com/user-attachments/assets/15cdc13c-997a-4756-9c1d-34ab5b3bebb7" />
+
+* $2.30M in Total Revenue was generated, representing a 3.8% Month-over-Month (MoM) increase in sales performance.
+* $286.4K in Total Profit was realized, reflecting a 3.1% MoM growth in net earnings.
+* 12.5% Profit Margin was achieved, representing a 0.7% MoM decrease, indicating rising operational costs or tighter margins.
+* Average Sales Value of $458.6 was recorded, with a 0.9% MoM decrease, suggesting a shift toward higher-volume, lower-value transactions.
+
+<img width="1404" height="777" alt="Screenshot 2025-11-02 221117" src="https://github.com/user-attachments/assets/bf9108e4-8653-4619-b00f-00947047d581" />
+
+* The Consumer segment is the primary revenue driver, contributing $1.2M, which is more than the Home Office and Corporate segments combined.
+* The Canon image Class 2200 Advanced Copier stands out as the highest profit-generating product, contributing $25K — more than triple the profit of the second-highest product.
+* A significant growth trend is visible in the latter half of the year, with revenue peaking in November ($352K) followed by a slight dip in December ($325K).
+
+<img width="1403" height="769" alt="Screenshot 2025-11-02 221318" src="https://github.com/user-attachments/assets/685dd81b-9c74-409b-8c58-248926e94738" />
+
+* Orders with no discount or small discounts (10-30%) drive the highest profit, while discounts above 31% lead to significant profit decreases.
+* Profit shows a significant upward trend toward the end of the year, peaking in December.
+* West region generated the highest profit (108.4k), followed by East (91.5k) and South (46.7k)
+
