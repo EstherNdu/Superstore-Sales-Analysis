@@ -82,3 +82,14 @@ This project is built on a five-table relational dataset comprising 9,994 order 
 * 38K Units Sold were recorded, showing a 4.8% MoM increase.
 * California and New York are the top-performing states by profit, contributing $76K and $74K respectively.
 * New York City leads at the local level with 450 orders and $256,368.2 in revenue.
+
+Recommendations:
+1. Discount Optimization: Implement a pricing policy system that would guard against offering discounts that causes losses. The data shows that discounts exceeding 30% rarely lead to profitable outcomes.
+2. Regional Turnaround Plan: Investigate the Central region to understand why Pennsylvania and Texas show significant negative margins despite high order volumes.
+3. Customer Lifetime Value (CLV): Leverage the high repeat rate by introducing a loyalty program that would make the customer to keep coming back.
+4. Product Portfolio Audit: Discontinue or reposition high-loss items like the Cubify CubeX 3D Printer, which currently accounts for the largest single-product loss of $8.9K.
+5. Operational Efficiency Drive: Address the 0.7% margin decrease by auditing fulfillment costs, as revenue is growing faster than net profit.
+6. Corporate Segment Expansion: Prioritize marketing spend on the Corporate segment, as it delivers higher profit efficiency per customer compared to the high-volume but lower-margin Consumer segment.
+
+View the interactive report here
+https://app.powerbi.com/view?r=eyJrIjoiMDYwMzc4MWEtMzFmNS00ZmMzLTlkZTAtODYwZmIwMTc4Njk1IiwidCI6ImQwMjZkZjkxLTg4MTYtNDIyNS04YmIyLWMzODJhOGUxZWYwYyJ9
